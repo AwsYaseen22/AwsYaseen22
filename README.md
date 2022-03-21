@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AwsYaseen22
 - 👀 I’m interested in technology, web development and mobile development
-- 🌱 I’m currently start fresh from begining with freecodecamp
-- 💞️ I’m looking to collaborate on freecodecamp
+- 🌱 I’m currently start fresh from begining with #100Devs
+- 💞️ I’m looking to switch my career as a software engineer within 2022
 - 📫 How to reach me @AwsYaseen22
 
 <!---
