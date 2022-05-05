@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AwsYaseen22
+- 👋 Hi, I’m Aws
 - 👀 I’m interested in technology, web development and mobile development
 - 🌱 I’m currently start fresh from begining with #100Devs
 - 💞️ I’m looking to switch my career as a software engineer within 2022
