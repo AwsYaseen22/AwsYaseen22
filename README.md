@@ -8,8 +8,14 @@
 - 👀 I am a self taught Full Stack software engineer, interested in technology, web and mobile development
 - 🌱 Currently I am a software engineer with #100Devs
 - 📫 How to reach me @AwsYaseen22
+- 💉 CodeWars.com
 </pre>
 
+<br>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/AwsYaseen22/badges/large" alt="codewars.com"/>
+</p>
 
 ## Connect with me
 
