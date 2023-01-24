@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I’m Aws
+  👋 Hi, I’m Aws (🔊 pronounce: "ouch".replace('ch', 's'))
 </h1>
 
 
